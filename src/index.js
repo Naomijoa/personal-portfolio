@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 0d256b2abdd32b106cfdc3f2149cafd79abb0080
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
